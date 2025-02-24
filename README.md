@@ -15,8 +15,6 @@ A simple e-commerce website frontend built with React, featuring basic UI design
 
 ## Installation & Running
 ```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
 npm install --legacy-peer-deps
 npm start
 ```
