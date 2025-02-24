@@ -23,16 +23,3 @@ npm start
 ```
 http://localhost:3000
 ```
-
-## Project Structure
-```
-├── public
-│   └── index.html
-├── src
-│   ├── components
-│   ├── pages
-│   ├── App.js
-│   └── index.js
-├── package.json
-└── README.md
-```
